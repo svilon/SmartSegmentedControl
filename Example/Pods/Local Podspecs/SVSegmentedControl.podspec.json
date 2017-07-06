@@ -1,0 +1,22 @@
+{
+  "name": "SVSegmentedControl",
+  "version": "0.1.0",
+  "summary": "A short description of SVSegmentedControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Eugene Shevtsov/SVSegmentedControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eugene Shevtsov": "i.i.shevtsov@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Eugene Shevtsov/SVSegmentedControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SVSegmentedControl/Classes/**/*"
+}

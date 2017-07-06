@@ -2,10 +2,4 @@ use_frameworks!
 
 target 'SVSegmentedControl_Example' do
   pod 'SVSegmentedControl', :path => '../'
-
-  target 'SVSegmentedControl_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
