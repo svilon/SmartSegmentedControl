@@ -1,5 +1,5 @@
 use_frameworks!
 
-target 'SVSegmentedControl_Example' do
-  pod 'SVSegmentedControl', :path => '../'
+target 'SmartSegmentedControl_Example' do
+  pod 'SmartSegmentedControl', :path => '../'
 end

@@ -1,0 +1,6 @@
+framework module Pods_SmartSegmentedControl_Example {
+  umbrella header "Pods-SmartSegmentedControl_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

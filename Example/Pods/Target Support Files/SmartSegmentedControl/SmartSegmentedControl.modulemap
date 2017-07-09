@@ -1,0 +1,6 @@
+framework module SmartSegmentedControl {
+  umbrella header "SmartSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
