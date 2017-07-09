@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/cocoapods/l/SVSegmentedControl.svg?style=flat)](http://cocoapods.org/pods/SVSegmentedControl)
 [![Platform](https://img.shields.io/cocoapods/p/SVSegmentedControl.svg?style=flat)](http://cocoapods.org/pods/SVSegmentedControl)
 
-This control was created to solve issue, that native UISegmentedControl has. Reffer to SVSegmentedControlSwift for swift version.
+This control was created to solve issue, that native UISegmentedControl has. Reffer to [SVSegmentedControlSwift](https://github.com/svilon/SVSegmentedControlSwift) for swift version.
 UISegmentedControl has issue with apportionsSegmentWidthsByContent setting (adjust segments width proportionally to content). Often, it appears that control bounds are wider, than actual segments width. See screenshot bellow - I put yellow color as layer background.
 
 ![UISegmentedControl](https://github.com/svilon/SVSegmentedControl/blob/master/Screens/UISegmentedControl.png)
