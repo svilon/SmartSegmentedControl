@@ -27,7 +27,6 @@ DESC
   s.source           = { :git => 'https://github.com/svilon/SVSegmentedControl.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
-  s.module_name  = 'SVSegmentedControl'
 
   s.source_files = 'SVSegmentedControl/Classes/**/*'
   

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		19FDFD4C62E81C1A02C24E09 /* Pods_SVSegmentedControl_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BF44074A2A77084AD0F69AD /* Pods_SVSegmentedControl_Example.framework */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -17,13 +18,10 @@
 		6003F5A9195388D20070C39A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5A8195388D20070C39A /* Images.xcassets */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
-		D98BE7E79E44E35195CA159B /* Pods_SVSegmentedControl_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E2AED48272A23BF7E18F93F /* Pods_SVSegmentedControl_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		22BDEF482FA9FC96BF5644E9 /* Pods-SVSegmentedControl_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SVSegmentedControl_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SVSegmentedControl_Tests/Pods-SVSegmentedControl_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		40FC6FA489A74AD523E2762B /* Pods-SVSegmentedControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SVSegmentedControl_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SVSegmentedControl_Example/Pods-SVSegmentedControl_Example.release.xcconfig"; sourceTree = "<group>"; };
-		4E2AED48272A23BF7E18F93F /* Pods_SVSegmentedControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SVSegmentedControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* SVSegmentedControl_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SVSegmentedControl_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -37,12 +35,10 @@
 		6003F5A5195388D20070C39A /* SVViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVViewController.h; sourceTree = "<group>"; };
 		6003F5A6195388D20070C39A /* SVViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVViewController.m; sourceTree = "<group>"; };
 		6003F5A8195388D20070C39A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		6003F5AF195388D20070C39A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		6CB1CD128FF1A7FA638D67CF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		6DF0893E5B7B0A0EE21A607A /* Pods-SVSegmentedControl_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SVSegmentedControl_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SVSegmentedControl_Tests/Pods-SVSegmentedControl_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		AD14A48F222B4C1CE69084B7 /* Pods_SVSegmentedControl_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SVSegmentedControl_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BF44074A2A77084AD0F69AD /* Pods_SVSegmentedControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SVSegmentedControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD4C6D03A7A179348724C9D1 /* Pods-SVSegmentedControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SVSegmentedControl_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SVSegmentedControl_Example/Pods-SVSegmentedControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D38D48642897B252E880BD04 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		F48E08469CA1BA79F3E4B936 /* SVSegmentedControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SVSegmentedControl.podspec; path = ../SVSegmentedControl.podspec; sourceTree = "<group>"; };
@@ -56,7 +52,7 @@
 				6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */,
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
-				D98BE7E79E44E35195CA159B /* Pods_SVSegmentedControl_Example.framework in Frameworks */,
+				19FDFD4C62E81C1A02C24E09 /* Pods_SVSegmentedControl_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,9 +84,7 @@
 				6003F58D195388D20070C39A /* Foundation.framework */,
 				6003F58F195388D20070C39A /* CoreGraphics.framework */,
 				6003F591195388D20070C39A /* UIKit.framework */,
-				6003F5AF195388D20070C39A /* XCTest.framework */,
-				4E2AED48272A23BF7E18F93F /* Pods_SVSegmentedControl_Example.framework */,
-				AD14A48F222B4C1CE69084B7 /* Pods_SVSegmentedControl_Tests.framework */,
+				8BF44074A2A77084AD0F69AD /* Pods_SVSegmentedControl_Example.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -137,8 +131,6 @@
 			children = (
 				BD4C6D03A7A179348724C9D1 /* Pods-SVSegmentedControl_Example.debug.xcconfig */,
 				40FC6FA489A74AD523E2762B /* Pods-SVSegmentedControl_Example.release.xcconfig */,
-				22BDEF482FA9FC96BF5644E9 /* Pods-SVSegmentedControl_Tests.debug.xcconfig */,
-				6DF0893E5B7B0A0EE21A607A /* Pods-SVSegmentedControl_Tests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";

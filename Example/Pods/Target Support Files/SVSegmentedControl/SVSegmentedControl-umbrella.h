@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "SVSegmentedControl.h"
 
 FOUNDATION_EXPORT double SVSegmentedControlVersionNumber;
 FOUNDATION_EXPORT const unsigned char SVSegmentedControlVersionString[];
