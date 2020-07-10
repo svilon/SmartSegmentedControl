@@ -7,218 +7,215 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1C0153F0ADB104077156069C46A612C4 /* SmartSegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = E118411F4FFED79364CABDC419B99A17 /* SmartSegmentedControl.m */; };
-		201ACBD8F2DF23BA21508BE22D32239C /* SmartSegmentedControl-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BD897B3E7E7F629444D5929E8123CADA /* SmartSegmentedControl-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		229C1F4FDD1190A0BC2766DC9F0058E1 /* Pods-SmartSegmentedControl_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = ADAADE329F00A700216386B42C701913 /* Pods-SmartSegmentedControl_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3AE0D6B55CE02CD7372B521FB3CD8ABC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		5747144697034C387F473BF2A6DCFD05 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */; };
-		9B672025F01E1EDEAF17F6FEC5C749E0 /* SmartSegmentedControl-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B06E5B137B40D978D8B2EF94749DED56 /* SmartSegmentedControl-dummy.m */; };
-		CCCF06FCCD035F52A36D8964870555C8 /* SmartSegmentedControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 591E364F34518DDB64F9ED870DA7B6BD /* SmartSegmentedControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D303B5B2986B707EB31B5269DC20B0AC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		F50F61B3C1E16A9B9F3099BB8808F067 /* Pods-SmartSegmentedControl_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8746A59096A44838A2909874F1448F80 /* Pods-SmartSegmentedControl_Example-dummy.m */; };
+		0403A2CCBF11D67BD0FE68D30BF4E835 /* SmartSegmentedControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 89DB76CDB10D10671C4396D8F9DB2987 /* SmartSegmentedControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0E0069584EBD36C1BF49F3689A6F5924 /* SmartSegmentedControl-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 876704346A03D56A2EC9F73397D311C7 /* SmartSegmentedControl-dummy.m */; };
+		153D53B25775564DEE051D8EDD19370A /* SmartSegmentedControl-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D4ACF4ECF84E5076B28E6652426E689 /* SmartSegmentedControl-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		49B237367176C26833B3D45CCC6FC55D /* Pods-SmartSegmentedControl_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D974EF64638B1BE1EDB2BAD4162F71F0 /* Pods-SmartSegmentedControl_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		905C30BB0D14294572ED8BF88E869BD0 /* SmartSegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = A305520BF8E5F07EE8B84B7163612256 /* SmartSegmentedControl.m */; };
+		93641157741919FADFDC5BAA1944CB92 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
+		AB0158EB593986A17D8FB337D4A14BA6 /* Pods-SmartSegmentedControl_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F280092328C4B0C1578C7D39B85CBB2F /* Pods-SmartSegmentedControl_Example-dummy.m */; };
+		B73CC66C27FD3426922BB72F05019681 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
+		BFBF7CE33F1A91D90AC54572E5923879 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 312B988EF117AE4DE76A268D970131FE /* UIKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		8819EC411EB7EBB304B88E19D85F6819 /* PBXContainerItemProxy */ = {
+		261A12324C0167FF7ED18933DB2AA541 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 09193A6D4B832DEBA7BB21CE6EF536A4;
+			remoteGlobalIDString = 982B40D1DB91D6A9A6C9F751AADFF0BE;
 			remoteInfo = SmartSegmentedControl;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E6AEB816F25DC6F3360959280C55D2 /* SmartSegmentedControl.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SmartSegmentedControl.framework; path = SmartSegmentedControl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		047D76153246988965DC31BD863BB6AF /* Pods-SmartSegmentedControl_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SmartSegmentedControl_Example-frameworks.sh"; sourceTree = "<group>"; };
-		27CAA6C35BAFD8F7840FDC024166ADEA /* Pods-SmartSegmentedControl_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SmartSegmentedControl_Example-resources.sh"; sourceTree = "<group>"; };
-		427B5577CDDC555E73FDF2C1B8193FBF /* Pods-SmartSegmentedControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SmartSegmentedControl_Example.release.xcconfig"; sourceTree = "<group>"; };
-		591E364F34518DDB64F9ED870DA7B6BD /* SmartSegmentedControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SmartSegmentedControl.h; sourceTree = "<group>"; };
-		60E635E78EF9EAF8133E69607D77D04E /* Pods-SmartSegmentedControl_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SmartSegmentedControl_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		7EC9A0736581354730C4C2537FEE1F94 /* Pods_SmartSegmentedControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SmartSegmentedControl_Example.framework; path = "Pods-SmartSegmentedControl_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8746A59096A44838A2909874F1448F80 /* Pods-SmartSegmentedControl_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SmartSegmentedControl_Example-dummy.m"; sourceTree = "<group>"; };
-		882227563B37EA1C078E64E1A2636154 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		AC94E6FC4E69C02DCE086D930DC37A33 /* Pods-SmartSegmentedControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SmartSegmentedControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		ADAADE329F00A700216386B42C701913 /* Pods-SmartSegmentedControl_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SmartSegmentedControl_Example-umbrella.h"; sourceTree = "<group>"; };
-		B06E5B137B40D978D8B2EF94749DED56 /* SmartSegmentedControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SmartSegmentedControl-dummy.m"; sourceTree = "<group>"; };
-		B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		BA4579A9CA8CFE40F331B232CD30BC0F /* Pods-SmartSegmentedControl_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SmartSegmentedControl_Example.modulemap"; sourceTree = "<group>"; };
-		BD897B3E7E7F629444D5929E8123CADA /* SmartSegmentedControl-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SmartSegmentedControl-umbrella.h"; sourceTree = "<group>"; };
-		C238EB792C3C3A1FC9066EF737D00C87 /* SmartSegmentedControl.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SmartSegmentedControl.xcconfig; sourceTree = "<group>"; };
-		D2556224A8F4B2F6182A99F42473535F /* SmartSegmentedControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SmartSegmentedControl.modulemap; sourceTree = "<group>"; };
-		D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		DA31FC8DD7022BD79289B368F5488E9D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E118411F4FFED79364CABDC419B99A17 /* SmartSegmentedControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SmartSegmentedControl.m; sourceTree = "<group>"; };
-		E6A2931F10FCF7D1C8A28507B9B26F54 /* SmartSegmentedControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SmartSegmentedControl-prefix.pch"; sourceTree = "<group>"; };
-		F49981A9A03751C979015C95BA0072E8 /* Pods-SmartSegmentedControl_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SmartSegmentedControl_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		04ED1F0840E5CC20A6875F55EE64DEF7 /* SmartSegmentedControl.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SmartSegmentedControl.debug.xcconfig; sourceTree = "<group>"; };
+		073A03976C212ADD4BF613C609052C8F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		312B988EF117AE4DE76A268D970131FE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		3EED214D5E73759B5B5706B700676F16 /* Pods-SmartSegmentedControl_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SmartSegmentedControl_Example-frameworks.sh"; sourceTree = "<group>"; };
+		3FC7D2855F724CA9FB69E1674DA83B72 /* Pods-SmartSegmentedControl_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SmartSegmentedControl_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		58DA4EF9795FCE408EA852413C870B59 /* SmartSegmentedControl-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SmartSegmentedControl-Info.plist"; sourceTree = "<group>"; };
+		58FB024234974A9D4A5150433A49046D /* Pods-SmartSegmentedControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SmartSegmentedControl_Example.release.xcconfig"; sourceTree = "<group>"; };
+		661C71F1637822988565A4CB8E64D83C /* Pods-SmartSegmentedControl_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SmartSegmentedControl_Example-Info.plist"; sourceTree = "<group>"; };
+		6D4ACF4ECF84E5076B28E6652426E689 /* SmartSegmentedControl-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SmartSegmentedControl-umbrella.h"; sourceTree = "<group>"; };
+		730454B0330167DBB7FA5E17359D90E8 /* SmartSegmentedControl.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SmartSegmentedControl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B352AAA69A4BD7A0D3E72FF464392C4 /* Pods-SmartSegmentedControl_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SmartSegmentedControl_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		81356D294C0857DBE8BBF2D0FDEDEC03 /* SmartSegmentedControl.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SmartSegmentedControl.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		876704346A03D56A2EC9F73397D311C7 /* SmartSegmentedControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SmartSegmentedControl-dummy.m"; sourceTree = "<group>"; };
+		89DB76CDB10D10671C4396D8F9DB2987 /* SmartSegmentedControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SmartSegmentedControl.h; path = SmartSegmentedControl/Classes/SmartSegmentedControl.h; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9FCE80DF726427ED4EB1ABA0CBF5EAC8 /* Pods-SmartSegmentedControl_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SmartSegmentedControl_Example.modulemap"; sourceTree = "<group>"; };
+		A305520BF8E5F07EE8B84B7163612256 /* SmartSegmentedControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SmartSegmentedControl.m; path = SmartSegmentedControl/Classes/SmartSegmentedControl.m; sourceTree = "<group>"; };
+		C4A0F0E44825449775C08CA4E7CABB40 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		C66EA0737D64D41AF8EA678D54616C8B /* SmartSegmentedControl.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SmartSegmentedControl.release.xcconfig; sourceTree = "<group>"; };
+		C78619E17FC417D0B15F22D986C3C46C /* Pods-SmartSegmentedControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SmartSegmentedControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		D974EF64638B1BE1EDB2BAD4162F71F0 /* Pods-SmartSegmentedControl_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SmartSegmentedControl_Example-umbrella.h"; sourceTree = "<group>"; };
+		E6315AE3CB591848A80230CBFBDFB2A5 /* Pods_SmartSegmentedControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SmartSegmentedControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F280092328C4B0C1578C7D39B85CBB2F /* Pods-SmartSegmentedControl_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SmartSegmentedControl_Example-dummy.m"; sourceTree = "<group>"; };
+		F39019BBB94770A96873154DD80276B6 /* SmartSegmentedControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SmartSegmentedControl-prefix.pch"; sourceTree = "<group>"; };
+		FBF6603B3652BE8E6216E7FC9DFD66A6 /* SmartSegmentedControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SmartSegmentedControl.modulemap; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5F2A03F7E37741C5A8CC02B395ABBDBB /* Frameworks */ = {
+		5F0AC77C0FFADAA416FD486EAEE5867D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D303B5B2986B707EB31B5269DC20B0AC /* Foundation.framework in Frameworks */,
-				5747144697034C387F473BF2A6DCFD05 /* UIKit.framework in Frameworks */,
+				B73CC66C27FD3426922BB72F05019681 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D29027B42AB1745DA35C692F4CB063E4 /* Frameworks */ = {
+		CA22F6C11EB32F03E244FCE917C015B4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AE0D6B55CE02CD7372B521FB3CD8ABC /* Foundation.framework in Frameworks */,
+				93641157741919FADFDC5BAA1944CB92 /* Foundation.framework in Frameworks */,
+				BFBF7CE33F1A91D90AC54572E5923879 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1529A8FB11F0DEB2EDE8217E96C5493B /* Development Pods */ = {
+		0664383BB600DE5F2EDCE4D3D498CB58 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				205FF75AD3F94656CBA0CFA3DDD8206A /* SmartSegmentedControl */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		1D594F20A261BDE056A17478799675C5 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				591E364F34518DDB64F9ED870DA7B6BD /* SmartSegmentedControl.h */,
-				E118411F4FFED79364CABDC419B99A17 /* SmartSegmentedControl.m */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		205FF75AD3F94656CBA0CFA3DDD8206A /* SmartSegmentedControl */ = {
-			isa = PBXGroup;
-			children = (
-				8891A525487D99030229310E1F290914 /* SmartSegmentedControl */,
-				E05DB821D3B5A4A52C643DB64CA6E69F /* Support Files */,
-			);
-			name = SmartSegmentedControl;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		34922B26C5A645C371E531CE00A12311 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				B3606013AE104D82FE63598724309846 /* Pods-SmartSegmentedControl_Example */,
+				321EDCB2C2491D85327492678BEC05AF /* Pods-SmartSegmentedControl_Example */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
+		1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				438B396F6B4147076630CAEFE34282C1 /* iOS */,
+				E2983683FD097A93297E2F5D4E382B36 /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		438B396F6B4147076630CAEFE34282C1 /* iOS */ = {
+		21910CD80DFCA43196360D39508B22F1 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */,
-				B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */,
+				6EF58C09374A5F21A07D5B9655BD31FC /* SmartSegmentedControl */,
 			);
-			name = iOS;
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		7DB346D0F39D3F0E887471402A8071AB = {
+		321EDCB2C2491D85327492678BEC05AF /* Pods-SmartSegmentedControl_Example */ = {
 			isa = PBXGroup;
 			children = (
-				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				1529A8FB11F0DEB2EDE8217E96C5493B /* Development Pods */,
-				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
-				AAB045FB510E1756D412B8488928E30D /* Products */,
-				34922B26C5A645C371E531CE00A12311 /* Targets Support Files */,
-			);
-			sourceTree = "<group>";
-		};
-		8891A525487D99030229310E1F290914 /* SmartSegmentedControl */ = {
-			isa = PBXGroup;
-			children = (
-				1D594F20A261BDE056A17478799675C5 /* Classes */,
-			);
-			name = SmartSegmentedControl;
-			path = SmartSegmentedControl;
-			sourceTree = "<group>";
-		};
-		AAB045FB510E1756D412B8488928E30D /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				7EC9A0736581354730C4C2537FEE1F94 /* Pods_SmartSegmentedControl_Example.framework */,
-				00E6AEB816F25DC6F3360959280C55D2 /* SmartSegmentedControl.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		B3606013AE104D82FE63598724309846 /* Pods-SmartSegmentedControl_Example */ = {
-			isa = PBXGroup;
-			children = (
-				882227563B37EA1C078E64E1A2636154 /* Info.plist */,
-				BA4579A9CA8CFE40F331B232CD30BC0F /* Pods-SmartSegmentedControl_Example.modulemap */,
-				60E635E78EF9EAF8133E69607D77D04E /* Pods-SmartSegmentedControl_Example-acknowledgements.markdown */,
-				F49981A9A03751C979015C95BA0072E8 /* Pods-SmartSegmentedControl_Example-acknowledgements.plist */,
-				8746A59096A44838A2909874F1448F80 /* Pods-SmartSegmentedControl_Example-dummy.m */,
-				047D76153246988965DC31BD863BB6AF /* Pods-SmartSegmentedControl_Example-frameworks.sh */,
-				27CAA6C35BAFD8F7840FDC024166ADEA /* Pods-SmartSegmentedControl_Example-resources.sh */,
-				ADAADE329F00A700216386B42C701913 /* Pods-SmartSegmentedControl_Example-umbrella.h */,
-				AC94E6FC4E69C02DCE086D930DC37A33 /* Pods-SmartSegmentedControl_Example.debug.xcconfig */,
-				427B5577CDDC555E73FDF2C1B8193FBF /* Pods-SmartSegmentedControl_Example.release.xcconfig */,
+				9FCE80DF726427ED4EB1ABA0CBF5EAC8 /* Pods-SmartSegmentedControl_Example.modulemap */,
+				7B352AAA69A4BD7A0D3E72FF464392C4 /* Pods-SmartSegmentedControl_Example-acknowledgements.markdown */,
+				3FC7D2855F724CA9FB69E1674DA83B72 /* Pods-SmartSegmentedControl_Example-acknowledgements.plist */,
+				F280092328C4B0C1578C7D39B85CBB2F /* Pods-SmartSegmentedControl_Example-dummy.m */,
+				3EED214D5E73759B5B5706B700676F16 /* Pods-SmartSegmentedControl_Example-frameworks.sh */,
+				661C71F1637822988565A4CB8E64D83C /* Pods-SmartSegmentedControl_Example-Info.plist */,
+				D974EF64638B1BE1EDB2BAD4162F71F0 /* Pods-SmartSegmentedControl_Example-umbrella.h */,
+				C78619E17FC417D0B15F22D986C3C46C /* Pods-SmartSegmentedControl_Example.debug.xcconfig */,
+				58FB024234974A9D4A5150433A49046D /* Pods-SmartSegmentedControl_Example.release.xcconfig */,
 			);
 			name = "Pods-SmartSegmentedControl_Example";
 			path = "Target Support Files/Pods-SmartSegmentedControl_Example";
 			sourceTree = "<group>";
 		};
-		E05DB821D3B5A4A52C643DB64CA6E69F /* Support Files */ = {
+		6EF58C09374A5F21A07D5B9655BD31FC /* SmartSegmentedControl */ = {
 			isa = PBXGroup;
 			children = (
-				DA31FC8DD7022BD79289B368F5488E9D /* Info.plist */,
-				D2556224A8F4B2F6182A99F42473535F /* SmartSegmentedControl.modulemap */,
-				C238EB792C3C3A1FC9066EF737D00C87 /* SmartSegmentedControl.xcconfig */,
-				B06E5B137B40D978D8B2EF94749DED56 /* SmartSegmentedControl-dummy.m */,
-				E6A2931F10FCF7D1C8A28507B9B26F54 /* SmartSegmentedControl-prefix.pch */,
-				BD897B3E7E7F629444D5929E8123CADA /* SmartSegmentedControl-umbrella.h */,
+				89DB76CDB10D10671C4396D8F9DB2987 /* SmartSegmentedControl.h */,
+				A305520BF8E5F07EE8B84B7163612256 /* SmartSegmentedControl.m */,
+				AE8A302C0D32869212CA84AD814AC5A7 /* Pod */,
+				98591A1E46D6CCBFA4D38246238750F0 /* Support Files */,
+			);
+			name = SmartSegmentedControl;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		940FE20AED182909960B503E059041A4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E6315AE3CB591848A80230CBFBDFB2A5 /* Pods_SmartSegmentedControl_Example.framework */,
+				730454B0330167DBB7FA5E17359D90E8 /* SmartSegmentedControl.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		98591A1E46D6CCBFA4D38246238750F0 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				FBF6603B3652BE8E6216E7FC9DFD66A6 /* SmartSegmentedControl.modulemap */,
+				876704346A03D56A2EC9F73397D311C7 /* SmartSegmentedControl-dummy.m */,
+				58DA4EF9795FCE408EA852413C870B59 /* SmartSegmentedControl-Info.plist */,
+				F39019BBB94770A96873154DD80276B6 /* SmartSegmentedControl-prefix.pch */,
+				6D4ACF4ECF84E5076B28E6652426E689 /* SmartSegmentedControl-umbrella.h */,
+				04ED1F0840E5CC20A6875F55EE64DEF7 /* SmartSegmentedControl.debug.xcconfig */,
+				C66EA0737D64D41AF8EA678D54616C8B /* SmartSegmentedControl.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/SmartSegmentedControl";
 			sourceTree = "<group>";
 		};
+		AE8A302C0D32869212CA84AD814AC5A7 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				C4A0F0E44825449775C08CA4E7CABB40 /* LICENSE */,
+				073A03976C212ADD4BF613C609052C8F /* README.md */,
+				81356D294C0857DBE8BBF2D0FDEDEC03 /* SmartSegmentedControl.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				21910CD80DFCA43196360D39508B22F1 /* Development Pods */,
+				1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */,
+				940FE20AED182909960B503E059041A4 /* Products */,
+				0664383BB600DE5F2EDCE4D3D498CB58 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		E2983683FD097A93297E2F5D4E382B36 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */,
+				312B988EF117AE4DE76A268D970131FE /* UIKit.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		1F1232AB53989CBA47F49CB35EDC3C03 /* Headers */ = {
+		D11770C520EB8709857FAC21C3A13E52 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				201ACBD8F2DF23BA21508BE22D32239C /* SmartSegmentedControl-umbrella.h in Headers */,
-				CCCF06FCCD035F52A36D8964870555C8 /* SmartSegmentedControl.h in Headers */,
+				49B237367176C26833B3D45CCC6FC55D /* Pods-SmartSegmentedControl_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		946E160A9D34DEA5233BF1148F1D9F9C /* Headers */ = {
+		F4D8A192B5AC38AA8A0D3159A5B2D3FB /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				229C1F4FDD1190A0BC2766DC9F0058E1 /* Pods-SmartSegmentedControl_Example-umbrella.h in Headers */,
+				153D53B25775564DEE051D8EDD19370A /* SmartSegmentedControl-umbrella.h in Headers */,
+				0403A2CCBF11D67BD0FE68D30BF4E835 /* SmartSegmentedControl.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		09193A6D4B832DEBA7BB21CE6EF536A4 /* SmartSegmentedControl */ = {
+		982B40D1DB91D6A9A6C9F751AADFF0BE /* SmartSegmentedControl */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E940093F548B8830AE01926F0D92B877 /* Build configuration list for PBXNativeTarget "SmartSegmentedControl" */;
+			buildConfigurationList = 71D2FADD457B23F260249EDF3E4EC01E /* Build configuration list for PBXNativeTarget "SmartSegmentedControl" */;
 			buildPhases = (
-				A64A9945B494FAA6386676CB98BA1625 /* Sources */,
-				5F2A03F7E37741C5A8CC02B395ABBDBB /* Frameworks */,
-				1F1232AB53989CBA47F49CB35EDC3C03 /* Headers */,
+				F4D8A192B5AC38AA8A0D3159A5B2D3FB /* Headers */,
+				9876F3509E5619457495033D6810F844 /* Sources */,
+				CA22F6C11EB32F03E244FCE917C015B4 /* Frameworks */,
+				A8F50EA649EB4031BAD1F8155B7209BB /* Resources */,
 			);
 			buildRules = (
 			);
@@ -226,306 +223,348 @@
 			);
 			name = SmartSegmentedControl;
 			productName = SmartSegmentedControl;
-			productReference = 00E6AEB816F25DC6F3360959280C55D2 /* SmartSegmentedControl.framework */;
+			productReference = 730454B0330167DBB7FA5E17359D90E8 /* SmartSegmentedControl.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		8D2635DCDC6AB5EEAA5934256C413F82 /* Pods-SmartSegmentedControl_Example */ = {
+		C848B80ECDB61F424E450B6A7EC89364 /* Pods-SmartSegmentedControl_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 22F7F9F0899642DE9E122F55EB8B30C9 /* Build configuration list for PBXNativeTarget "Pods-SmartSegmentedControl_Example" */;
+			buildConfigurationList = 710F2A799026C880A7FDC277EF08F169 /* Build configuration list for PBXNativeTarget "Pods-SmartSegmentedControl_Example" */;
 			buildPhases = (
-				029914E22C1E5CBA306A770B816C5BC9 /* Sources */,
-				D29027B42AB1745DA35C692F4CB063E4 /* Frameworks */,
-				946E160A9D34DEA5233BF1148F1D9F9C /* Headers */,
+				D11770C520EB8709857FAC21C3A13E52 /* Headers */,
+				C0B3F3B354C722C282DF6968DA3DE5CA /* Sources */,
+				5F0AC77C0FFADAA416FD486EAEE5867D /* Frameworks */,
+				C073061A5FD00A1C2B9D4F5A880139D1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				549747344FCFD2AB8D5663323B051E6A /* PBXTargetDependency */,
+				01CA28AD88B515516A3DC9C95E2871EB /* PBXTargetDependency */,
 			);
 			name = "Pods-SmartSegmentedControl_Example";
 			productName = "Pods-SmartSegmentedControl_Example";
-			productReference = 7EC9A0736581354730C4C2537FEE1F94 /* Pods_SmartSegmentedControl_Example.framework */;
+			productReference = E6315AE3CB591848A80230CBFBDFB2A5 /* Pods_SmartSegmentedControl_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
 			};
-			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
-			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = AAB045FB510E1756D412B8488928E30D /* Products */;
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = 940FE20AED182909960B503E059041A4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8D2635DCDC6AB5EEAA5934256C413F82 /* Pods-SmartSegmentedControl_Example */,
-				09193A6D4B832DEBA7BB21CE6EF536A4 /* SmartSegmentedControl */,
+				C848B80ECDB61F424E450B6A7EC89364 /* Pods-SmartSegmentedControl_Example */,
+				982B40D1DB91D6A9A6C9F751AADFF0BE /* SmartSegmentedControl */,
 			);
 		};
 /* End PBXProject section */
 
-/* Begin PBXSourcesBuildPhase section */
-		029914E22C1E5CBA306A770B816C5BC9 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
+/* Begin PBXResourcesBuildPhase section */
+		A8F50EA649EB4031BAD1F8155B7209BB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F50F61B3C1E16A9B9F3099BB8808F067 /* Pods-SmartSegmentedControl_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A64A9945B494FAA6386676CB98BA1625 /* Sources */ = {
+		C073061A5FD00A1C2B9D4F5A880139D1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9876F3509E5619457495033D6810F844 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9B672025F01E1EDEAF17F6FEC5C749E0 /* SmartSegmentedControl-dummy.m in Sources */,
-				1C0153F0ADB104077156069C46A612C4 /* SmartSegmentedControl.m in Sources */,
+				0E0069584EBD36C1BF49F3689A6F5924 /* SmartSegmentedControl-dummy.m in Sources */,
+				905C30BB0D14294572ED8BF88E869BD0 /* SmartSegmentedControl.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C0B3F3B354C722C282DF6968DA3DE5CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB0158EB593986A17D8FB337D4A14BA6 /* Pods-SmartSegmentedControl_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		549747344FCFD2AB8D5663323B051E6A /* PBXTargetDependency */ = {
+		01CA28AD88B515516A3DC9C95E2871EB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SmartSegmentedControl;
-			target = 09193A6D4B832DEBA7BB21CE6EF536A4 /* SmartSegmentedControl */;
-			targetProxy = 8819EC411EB7EBB304B88E19D85F6819 /* PBXContainerItemProxy */;
+			target = 982B40D1DB91D6A9A6C9F751AADFF0BE /* SmartSegmentedControl */;
+			targetProxy = 261A12324C0167FF7ED18933DB2AA541 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1AFF9734467A13BE90400D94F89CF54B /* Release */ = {
+		0802AB2388D35BAC74807526E0DC085C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 427B5577CDDC555E73FDF2C1B8193FBF /* Pods-SmartSegmentedControl_Example.release.xcconfig */;
+			baseConfigurationReference = 58FB024234974A9D4A5150433A49046D /* Pods-SmartSegmentedControl_Example.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-SmartSegmentedControl_Example/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-SmartSegmentedControl_Example/Pods-SmartSegmentedControl_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-SmartSegmentedControl_Example/Pods-SmartSegmentedControl_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_SmartSegmentedControl_Example;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		60A7F9B4A8E92A5B16CC2AA887D9FE07 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		7A225436A4FBB248E29C30062DC1AD1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C78619E17FC417D0B15F22D986C3C46C /* Pods-SmartSegmentedControl_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-SmartSegmentedControl_Example/Pods-SmartSegmentedControl_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SmartSegmentedControl_Example/Pods-SmartSegmentedControl_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		2516EB7C69377FA35B134898821673DF /* Release */ = {
+		7BB98B13711E5AB5CCAB226F06C1E0D8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C238EB792C3C3A1FC9066EF737D00C87 /* SmartSegmentedControl.xcconfig */;
+			baseConfigurationReference = C66EA0737D64D41AF8EA678D54616C8B /* SmartSegmentedControl.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/SmartSegmentedControl/SmartSegmentedControl-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SmartSegmentedControl/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/SmartSegmentedControl/SmartSegmentedControl-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SmartSegmentedControl/SmartSegmentedControl.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_MODULE_NAME = SmartSegmentedControl;
 				PRODUCT_NAME = SmartSegmentedControl;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
-		345CC476DF4A7516DBD2220CF5035FF3 /* Debug */ = {
+		7E1F3D358966F24610AD782F313B4C40 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		717E77604BFBB04BEAF56608A1CB2EDE /* Release */ = {
+		A2E0CC949F0DA4540A2D6E0094A6ECDB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGNING_REQUIRED = NO;
-				COPY_PHASE_STRIP = YES;
-				ENABLE_NS_ASSERTIONS = NO;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		85BDC264277456C46C3D51D5B3F8DB7B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C238EB792C3C3A1FC9066EF737D00C87 /* SmartSegmentedControl.xcconfig */;
+			baseConfigurationReference = 04ED1F0840E5CC20A6875F55EE64DEF7 /* SmartSegmentedControl.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/SmartSegmentedControl/SmartSegmentedControl-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SmartSegmentedControl/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/SmartSegmentedControl/SmartSegmentedControl-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SmartSegmentedControl/SmartSegmentedControl.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_MODULE_NAME = SmartSegmentedControl;
 				PRODUCT_NAME = SmartSegmentedControl;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		E12E35FEE74E9176A822DD295DDD0B7C /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = AC94E6FC4E69C02DCE086D930DC37A33 /* Pods-SmartSegmentedControl_Example.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-SmartSegmentedControl_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-SmartSegmentedControl_Example/Pods-SmartSegmentedControl_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_SmartSegmentedControl_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -535,34 +574,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		22F7F9F0899642DE9E122F55EB8B30C9 /* Build configuration list for PBXNativeTarget "Pods-SmartSegmentedControl_Example" */ = {
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E12E35FEE74E9176A822DD295DDD0B7C /* Debug */,
-				1AFF9734467A13BE90400D94F89CF54B /* Release */,
+				7E1F3D358966F24610AD782F313B4C40 /* Debug */,
+				60A7F9B4A8E92A5B16CC2AA887D9FE07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+		710F2A799026C880A7FDC277EF08F169 /* Build configuration list for PBXNativeTarget "Pods-SmartSegmentedControl_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				345CC476DF4A7516DBD2220CF5035FF3 /* Debug */,
-				717E77604BFBB04BEAF56608A1CB2EDE /* Release */,
+				7A225436A4FBB248E29C30062DC1AD1F /* Debug */,
+				0802AB2388D35BAC74807526E0DC085C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E940093F548B8830AE01926F0D92B877 /* Build configuration list for PBXNativeTarget "SmartSegmentedControl" */ = {
+		71D2FADD457B23F260249EDF3E4EC01E /* Build configuration list for PBXNativeTarget "SmartSegmentedControl" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				85BDC264277456C46C3D51D5B3F8DB7B /* Debug */,
-				2516EB7C69377FA35B134898821673DF /* Release */,
+				A2E0CC949F0DA4540A2D6E0094A6ECDB /* Debug */,
+				7BB98B13711E5AB5CCAB226F06C1E0D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 }

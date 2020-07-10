@@ -167,6 +167,9 @@
                                        options:0
                                     attributes:attributes
                                        context:nil].size.width + 5.;
+            if (@available(iOS 13, *)) {
+                width += 5.;  //accounting for new fancy designs in ios 13
+            }
         }
         else {
             width = 5.;
